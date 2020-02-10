@@ -14,8 +14,3 @@ The following **required** functionality is completed:
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
